@@ -2,7 +2,7 @@
 
 This project benchmarks the performance of classic sorting algorithms using a Python command-line interface (CLI). It supports runtime analysis, comparison tracking, and visualization of sorting behavior across increasing input sizes.
 
-## ✨ Features
+Features
 
 - 🔁 Implements 4 classic sorting algorithms:
   - Quicksort
