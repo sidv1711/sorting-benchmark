@@ -75,9 +75,3 @@ codequest/
 
 - Add unit tests with `pytest`
 - Add memory usage tracking
-- Turn into a web app using FastAPI
-- Add insertion sort or Timsort
-
----
-
-Built for learning, benchmarking, and interview prep 🎓📊
